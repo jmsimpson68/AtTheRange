@@ -1,0 +1,25 @@
+#################
+## Eclipse
+#################
+
+target/
+.settings/
+.project
+.classpath
+
+*.class
+*.jar
+*.war
+*.ear
+
+
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
